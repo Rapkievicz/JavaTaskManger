@@ -20,3 +20,7 @@ Aplicação simples de linha de comando que permite aos usuários criar, visuali
 - ``Java 8``
 - ``Paradigma de orientação a objetos``
 - ``ArrayLists``
+
+
+##
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="80" height="80"/>
